@@ -7,6 +7,3 @@ Sentiment Analysis in Microblogs". IEEE in the 21st International Conference on 
 (IALP), Singapore, December 2017.
 
 The InSet Lexicon consists of 3,609 positive words and 6,609 negative words with weight ranging from -5 to +5
-
-Link Download: http://www.fajrikoto.com/polls/static/polls/doc/other/InSet-Lexicon.zip
-Or you can get it directly from this repo
